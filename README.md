@@ -127,7 +127,7 @@ etl-project/
 
 ### **Installation**
 ```bash
-git clone https://github.com/RounitR/etl-project.git
+git clone https://github.com/ayu43sharma/ETL-Pipeline.git
 cd etl-project
 pip install -r requirements.txt
 cp .env.template .env  # Configure your credentials
