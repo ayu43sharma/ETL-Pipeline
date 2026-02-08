@@ -1,0 +1,151 @@
+order_id,product,category,quantity,price,order_date,region
+1001,,Outdoors,3,36.0,2025-08-03,Philippines
+1002,,Furniture,4,480.0,2025-07-30,singapore
+1003,Pen Set,Stationery,1,3.0,2025-06-24,MALAYSIA
+1004,Backpack,Outdoors,2,70.0,2025-08-15,indonesia
+1005,Sneakers,Footwear,3,165.0,2025-09-09,thailand
+1006,Red Mug,Home,4,30.0,2025-09-13,MALAYSIA
+1007,Notebook,Stationery,3,15.0,2025-08-24,MALAYSIA
+1008,Laptop Stand,Electronics,4,160.0,2025-09-05,Vietnam
+1009,Red Mug,Home,5,37.5,2025-08-31,singapore
+1010,Blue T-Shirt,Apparel,2,30.0,2025-07-30,thailand
+1011,Headphones,Electronics,2,130.0,2025-06-26,MALAYSIA
+1012,Red Mug,Home,2,15.0,16-09-2025,Philippines
+1002,Blue T-Shirt,Apparel,3,45.0,2025-09-10,singapore
+1014,Notebook,Stationery,5,25.0,2025-09-05,thailand
+1015,Water Bottle,Outdoors,2,24.0,2025-08-03,singapore
+1016,Backpack,Outdoors,5,175.0,16-09-2025,thailand
+1017,Notebook,Stationery,1,5.0,16-09-2025,singapore
+1018,Notebook,Stationery,2,10.0,2025-09-07,singapore
+1019,Pen Set,Stationery,1,3.0,2025-07-25,indonesia
+1020,Sneakers,Footwear,2,110.0,2025-06-29,indonesia
+1021,Sneakers,Footwear,4,220.0,2025-09-09,indonesia
+1022,Water Bottle,Outdoors,3,36.0,2025-07-14,indonesia
+1023,Pen Set,Stationery,5,15.0,2025-07-24,Philippines
+1024,Headphones,Electronics,2,130.0,2025-07-21,thailand
+1025,Desk Chair,Furniture,2,240.0,16-09-2025,Philippines
+1026,Headphones,Electronics,5,325.0,2025-06-26,Philippines
+1027,,Electronics,4,160.0,2025-06-22,Philippines
+1028,Headphones,Electronics,1,65.0,2025-07-28,thailand
+1029,Headphones,Electronics,4,260.0,2025-08-19,singapore
+1030,Backpack,Outdoors,4,140.0,2025-09-10,MALAYSIA
+1031,Sneakers,Footwear,4,220.0,2025-08-18,Philippines
+1032,Blue T-Shirt,Apparel,1,15.0,2025-07-06,thailand
+1009,Desk Chair,Furniture,5,600.0,2025-07-03,Vietnam
+1034,Laptop Stand,Electronics,5,200.0,2025-07-29,indonesia
+1028,Laptop Stand,Electronics,5,200.0,2025-07-21,thailand
+1036,Sneakers,Footwear,2,110.0,2025-08-01,thailand
+1037,,Electronics,1,40.0,2025-09-05,singapore
+1038,Headphones,Electronics,5,325.0,2025-07-13,Vietnam
+1039,Notebook,Stationery,5,25.0,2025-07-11,indonesia
+1040,Backpack,Outdoors,4,140.0,2025-07-23,MALAYSIA
+1041,Red Mug,Home,5,37.5,2025-08-29,singapore
+1042,,Outdoors,2,24.0,2025-08-17,thailand
+1043,Pen Set,Stationery,2,6.0,2025-08-14,Philippines
+1044,Red Mug,Home,5,37.5,2025-07-12,MALAYSIA
+1045,Pen Set,Stationery,1,3.0,16-09-2025,MALAYSIA
+1046,Laptop Stand,Electronics,1,40.0,2025-07-17,Vietnam
+1047,,Outdoors,1,12.0,2025-09-06,singapore
+1048,,Electronics,4,260.0,2025-07-03,Vietnam
+1032,Pen Set,Stationery,4,12.0,2025-06-24,singapore
+1050,Headphones,Electronics,2,130.0,2025-08-17,singapore
+1051,Pen Set,Stationery,3,9.0,2025-09-14,singapore
+1052,Headphones,Electronics,4,260.0,2025-08-20,Philippines
+1053,Desk Chair,Furniture,1,120.0,2025-08-09,MALAYSIA
+1054,Notebook,Stationery,2,10.0,2025-07-22,thailand
+1055,Laptop Stand,Electronics,4,160.0,2025-06-27,indonesia
+1056,Pen Set,Stationery,1,3.0,2025-06-19,MALAYSIA
+1057,Pen Set,Stationery,1,3.0,2025-06-23,Philippines
+1058,Blue T-Shirt,Apparel,3,45.0,2025-09-09,thailand
+1059,Red Mug,Home,4,30.0,2025-07-01,Vietnam
+1060,Notebook,Stationery,5,25.0,2025-07-08,Vietnam
+1061,Laptop Stand,Electronics,4,160.0,16-09-2025,Vietnam
+1062,Red Mug,Home,4,30.0,2025-09-10,thailand
+1044,Notebook,Stationery,1,5.0,2025-07-31,MALAYSIA
+1064,Laptop Stand,Electronics,5,200.0,2025-08-22,Vietnam
+1065,Backpack,Outdoors,1,35.0,2025-07-16,thailand
+1066,Notebook,Stationery,3,15.0,2025-07-27,thailand
+1067,Backpack,Outdoors,1,35.0,2025-08-22,Vietnam
+1068,Laptop Stand,Electronics,1,40.0,2025-08-18,indonesia
+1069,Blue T-Shirt,Apparel,2,30.0,2025-06-27,Philippines
+1070,,Electronics,5,325.0,2025-08-16,Philippines
+1071,Sneakers,Footwear,1,55.0,2025-08-07,singapore
+1025,Notebook,Stationery,4,20.0,2025-08-28,singapore
+1073,Notebook,Stationery,5,25.0,2025-07-28,thailand
+1074,Laptop Stand,Electronics,4,160.0,2025-09-08,thailand
+1075,Notebook,Stationery,1,5.0,2025-07-21,thailand
+1076,Notebook,Stationery,4,20.0,2025-07-14,thailand
+1077,Notebook,Stationery,4,20.0,2025-07-03,MALAYSIA
+1078,Pen Set,Stationery,3,9.0,2025-09-03,Vietnam
+1079,Sneakers,Footwear,2,110.0,2025-09-11,MALAYSIA
+1080,Laptop Stand,Electronics,1,40.0,2025-06-28,indonesia
+1081,Water Bottle,Outdoors,5,60.0,2025-09-09,indonesia
+1082,Backpack,Outdoors,1,35.0,2025-08-31,MALAYSIA
+1083,Backpack,Outdoors,2,70.0,16-09-2025,singapore
+1084,Sneakers,Footwear,2,110.0,2025-07-31,indonesia
+1085,Red Mug,Home,2,15.0,2025-07-10,Vietnam
+1086,Laptop Stand,Electronics,4,160.0,2025-07-08,Vietnam
+1087,Desk Chair,Furniture,1,120.0,2025-08-05,MALAYSIA
+1056,Notebook,Stationery,5,25.0,2025-09-07,Vietnam
+1089,Blue T-Shirt,Apparel,2,30.0,2025-08-15,singapore
+1002,Laptop Stand,Electronics,1,40.0,2025-09-09,MALAYSIA
+1091,Red Mug,Home,1,7.5,2025-08-19,Vietnam
+1092,Blue T-Shirt,Apparel,2,30.0,2025-09-07,thailand
+1093,Water Bottle,Outdoors,4,48.0,2025-09-15,indonesia
+1094,Headphones,Electronics,4,260.0,2025-08-16,thailand
+1095,Blue T-Shirt,Apparel,2,30.0,16-09-2025,thailand
+1096,Pen Set,Stationery,5,15.0,2025-06-21,thailand
+1097,Notebook,Stationery,1,5.0,2025-07-09,singapore
+1098,Notebook,Stationery,5,25.0,2025-06-28,singapore
+1083,Pen Set,Stationery,3,9.0,2025-08-09,Philippines
+1023,Desk Chair,Furniture,1,120.0,2025-06-23,Philippines
+1101,Sneakers,Footwear,5,275.0,2025-08-04,MALAYSIA
+1087,Sneakers,Footwear,5,275.0,2025-07-01,thailand
+1043,Laptop Stand,Electronics,4,160.0,2025-08-30,Philippines
+1104,Laptop Stand,Electronics,4,160.0,2025-07-01,thailand
+1105,Backpack,Outdoors,1,35.0,2025-07-27,Vietnam
+1106,Pen Set,Stationery,4,12.0,2025-07-22,Vietnam
+1107,Sneakers,Footwear,1,55.0,2025-09-13,thailand
+1108,Desk Chair,Furniture,2,240.0,16-09-2025,Philippines
+1109,Laptop Stand,Electronics,1,40.0,2025-08-11,MALAYSIA
+1110,Notebook,Stationery,1,5.0,2025-09-02,indonesia
+1111,Water Bottle,Outdoors,4,48.0,2025-08-28,singapore
+1112,Laptop Stand,Electronics,4,160.0,2025-07-05,thailand
+1046,Water Bottle,Outdoors,5,60.0,2025-07-01,thailand
+1114,,Electronics,3,195.0,2025-07-23,Philippines
+1115,Water Bottle,Outdoors,2,24.0,16-09-2025,thailand
+1116,Desk Chair,Furniture,2,240.0,2025-07-28,MALAYSIA
+1117,Headphones,Electronics,3,195.0,2025-06-30,Vietnam
+1118,Laptop Stand,Electronics,2,80.0,2025-09-08,thailand
+1119,Notebook,Stationery,5,25.0,2025-09-01,thailand
+1120,Notebook,Stationery,4,20.0,2025-06-27,Philippines
+1105,Sneakers,Footwear,2,110.0,2025-06-27,MALAYSIA
+1122,Blue T-Shirt,Apparel,3,45.0,2025-08-08,thailand
+1123,Backpack,Outdoors,5,175.0,2025-09-10,MALAYSIA
+1124,Red Mug,Home,1,7.5,2025-06-28,Vietnam
+1125,Headphones,Electronics,1,65.0,2025-09-03,indonesia
+1126,Laptop Stand,Electronics,3,120.0,2025-07-07,MALAYSIA
+1127,Notebook,Stationery,1,5.0,2025-08-16,singapore
+1128,Laptop Stand,Electronics,4,160.0,2025-08-20,MALAYSIA
+1129,Backpack,Outdoors,1,35.0,2025-09-05,indonesia
+1130,Red Mug,Home,1,7.5,2025-06-24,singapore
+1131,,Outdoors,1,35.0,2025-08-25,MALAYSIA
+1132,Backpack,Outdoors,2,70.0,2025-08-17,Vietnam
+1133,Desk Chair,Furniture,5,600.0,2025-07-21,singapore
+1134,Pen Set,Stationery,4,12.0,2025-09-03,Vietnam
+1017,Sneakers,Footwear,2,110.0,2025-07-18,thailand
+1046,Red Mug,Home,1,7.5,2025-07-01,singapore
+1137,Water Bottle,Outdoors,5,60.0,2025-07-27,MALAYSIA
+1138,Pen Set,Stationery,2,6.0,2025-07-09,singapore
+1139,Blue T-Shirt,Apparel,4,60.0,2025-09-15,Philippines
+1140,Pen Set,Stationery,4,12.0,2025-06-29,MALAYSIA
+1141,Headphones,Electronics,1,65.0,2025-09-05,MALAYSIA
+1142,Sneakers,Footwear,1,55.0,2025-08-14,MALAYSIA
+1065,,Electronics,1,65.0,2025-07-21,thailand
+1144,Laptop Stand,Electronics,5,200.0,2025-08-09,MALAYSIA
+1145,Headphones,Electronics,2,130.0,2025-07-14,Philippines
+1146,,Outdoors,2,24.0,2025-07-10,MALAYSIA
+1147,Sneakers,Footwear,2,110.0,2025-07-20,singapore
+1148,Desk Chair,Furniture,4,480.0,2025-08-07,thailand
+1149,Sneakers,Footwear,5,275.0,2025-07-17,MALAYSIA
+1150,,Home,4,30.0,2025-07-29,singapore

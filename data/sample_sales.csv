@@ -1,0 +1,151 @@
+order_id,product,category,quantity,price,order_date,region
+1001,Water Bottle,Outdoors,3,36.0,2025-06-18,Malaysia
+1002,Pen Set,Stationery,5,15.0,2025-07-01,Vietnam
+1003,Desk Chair,Furniture,5,600.0,2025-08-16,Thailand
+1004,Backpack,Outdoors,3,105.0,2025-06-22,Malaysia
+1005,Desk Chair,Furniture,5,600.0,2025-07-11,Singapore
+1006,Notebook,Stationery,4,20.0,2025-08-01,Philippines
+1007,Notebook,Stationery,2,10.0,2025-08-29,Singapore
+1008,Blue T-Shirt,Apparel,2,30.0,2025-09-01,Thailand
+1009,Pen Set,Stationery,4,12.0,2025-07-11,Thailand
+1010,Water Bottle,Outdoors,4,48.0,2025-09-01,Thailand
+1011,Desk Chair,Furniture,4,480.0,2025-07-09,Thailand
+1012,Water Bottle,Outdoors,3,36.0,2025-07-29,Thailand
+1013,Desk Chair,Furniture,2,240.0,2025-08-13,Malaysia
+1014,Pen Set,Stationery,4,12.0,2025-07-30,Indonesia
+1015,Water Bottle,Outdoors,4,48.0,2025-07-29,Philippines
+1016,Desk Chair,Furniture,4,480.0,2025-08-13,Thailand
+1017,Notebook,Stationery,2,10.0,2025-07-03,Malaysia
+1018,Notebook,Stationery,4,20.0,2025-08-22,Thailand
+1019,Backpack,Outdoors,1,35.0,2025-06-25,Vietnam
+1020,Water Bottle,Outdoors,2,24.0,2025-09-02,Indonesia
+1021,Laptop Stand,Electronics,5,200.0,2025-07-29,Philippines
+1022,Blue T-Shirt,Apparel,2,30.0,2025-07-09,Thailand
+1023,Water Bottle,Outdoors,2,24.0,2025-09-02,Indonesia
+1024,Desk Chair,Furniture,5,600.0,2025-08-07,Singapore
+1025,Laptop Stand,Electronics,2,80.0,2025-07-08,Malaysia
+1026,Water Bottle,Outdoors,2,24.0,2025-09-10,Singapore
+1027,Blue T-Shirt,Apparel,5,75.0,2025-07-26,Philippines
+1028,Red Mug,Home,5,37.5,2025-08-05,Indonesia
+1029,Headphones,Electronics,1,65.0,2025-08-17,Singapore
+1030,Notebook,Stationery,3,15.0,2025-08-05,Philippines
+1031,Blue T-Shirt,Apparel,1,15.0,2025-06-22,Thailand
+1032,Water Bottle,Outdoors,4,48.0,2025-07-24,Vietnam
+1033,Backpack,Outdoors,5,175.0,2025-09-14,Thailand
+1034,Desk Chair,Furniture,3,360.0,2025-09-07,Malaysia
+1035,Laptop Stand,Electronics,2,80.0,2025-08-22,Philippines
+1036,Blue T-Shirt,Apparel,2,30.0,2025-09-12,Indonesia
+1037,Desk Chair,Furniture,2,240.0,2025-07-20,Vietnam
+1038,Red Mug,Home,4,30.0,2025-09-02,Philippines
+1039,Desk Chair,Furniture,3,360.0,2025-06-25,Thailand
+1040,Blue T-Shirt,Apparel,2,30.0,2025-07-24,Malaysia
+1041,Water Bottle,Outdoors,4,48.0,2025-09-07,Vietnam
+1042,Notebook,Stationery,4,20.0,2025-09-07,Philippines
+1043,Blue T-Shirt,Apparel,2,30.0,2025-07-31,Malaysia
+1044,Desk Chair,Furniture,3,360.0,2025-08-06,Vietnam
+1045,Headphones,Electronics,4,260.0,2025-08-21,Malaysia
+1046,Water Bottle,Outdoors,2,24.0,2025-06-23,Thailand
+1047,Blue T-Shirt,Apparel,2,30.0,2025-07-29,Philippines
+1048,Blue T-Shirt,Apparel,2,30.0,2025-09-01,Philippines
+1049,Laptop Stand,Electronics,1,40.0,2025-08-29,Indonesia
+1050,Laptop Stand,Electronics,1,40.0,2025-06-24,Philippines
+1051,Blue T-Shirt,Apparel,5,75.0,2025-08-23,Vietnam
+1052,Backpack,Outdoors,5,175.0,2025-08-07,Indonesia
+1053,Laptop Stand,Electronics,4,160.0,2025-09-11,Thailand
+1054,Red Mug,Home,2,15.0,2025-07-15,Malaysia
+1055,Pen Set,Stationery,2,6.0,2025-07-27,Philippines
+1056,Blue T-Shirt,Apparel,2,30.0,2025-08-09,Malaysia
+1057,Laptop Stand,Electronics,2,80.0,2025-07-01,Indonesia
+1058,Headphones,Electronics,5,325.0,2025-07-20,Philippines
+1059,Desk Chair,Furniture,4,480.0,2025-08-02,Singapore
+1060,Sneakers,Footwear,5,275.0,2025-07-26,Indonesia
+1061,Pen Set,Stationery,1,3.0,2025-09-06,Thailand
+1062,Headphones,Electronics,5,325.0,2025-07-01,Vietnam
+1063,Notebook,Stationery,5,25.0,2025-07-29,Philippines
+1064,Laptop Stand,Electronics,2,80.0,2025-07-02,Indonesia
+1065,Desk Chair,Furniture,4,480.0,2025-06-25,Singapore
+1066,Laptop Stand,Electronics,3,120.0,2025-08-28,Malaysia
+1067,Laptop Stand,Electronics,4,160.0,2025-07-27,Indonesia
+1068,Backpack,Outdoors,1,35.0,2025-08-20,Singapore
+1069,Laptop Stand,Electronics,1,40.0,2025-08-02,Singapore
+1070,Sneakers,Footwear,4,220.0,2025-07-26,Indonesia
+1071,Sneakers,Footwear,5,275.0,2025-09-03,Malaysia
+1072,Sneakers,Footwear,1,55.0,2025-08-09,Indonesia
+1073,Laptop Stand,Electronics,3,120.0,2025-06-18,Malaysia
+1074,Backpack,Outdoors,2,70.0,2025-08-20,Thailand
+1075,Pen Set,Stationery,5,15.0,2025-06-21,Vietnam
+1076,Notebook,Stationery,3,15.0,2025-08-14,Indonesia
+1077,Backpack,Outdoors,2,70.0,2025-06-21,Philippines
+1078,Sneakers,Footwear,3,165.0,2025-08-14,Malaysia
+1079,Notebook,Stationery,2,10.0,2025-07-14,Indonesia
+1080,Blue T-Shirt,Apparel,2,30.0,2025-07-03,Philippines
+1081,Laptop Stand,Electronics,4,160.0,2025-07-14,Vietnam
+1082,Blue T-Shirt,Apparel,2,30.0,2025-08-30,Vietnam
+1083,Laptop Stand,Electronics,2,80.0,2025-08-20,Philippines
+1084,Laptop Stand,Electronics,1,40.0,2025-09-06,Philippines
+1085,Red Mug,Home,3,22.5,2025-08-31,Indonesia
+1086,Pen Set,Stationery,5,15.0,2025-06-18,Indonesia
+1087,Desk Chair,Furniture,5,600.0,2025-07-01,Vietnam
+1088,Water Bottle,Outdoors,3,36.0,2025-07-05,Vietnam
+1089,Backpack,Outdoors,3,105.0,2025-06-28,Indonesia
+1090,Backpack,Outdoors,4,140.0,2025-08-20,Indonesia
+1091,Backpack,Outdoors,5,175.0,2025-07-03,Vietnam
+1092,Notebook,Stationery,2,10.0,2025-07-12,Philippines
+1093,Blue T-Shirt,Apparel,1,15.0,2025-07-31,Thailand
+1094,Sneakers,Footwear,5,275.0,2025-07-28,Philippines
+1095,Desk Chair,Furniture,5,600.0,2025-08-06,Vietnam
+1096,Desk Chair,Furniture,1,120.0,2025-07-14,Indonesia
+1097,Desk Chair,Furniture,5,600.0,2025-07-28,Philippines
+1098,Desk Chair,Furniture,2,240.0,2025-08-22,Singapore
+1099,Sneakers,Footwear,3,165.0,2025-07-13,Thailand
+1100,Red Mug,Home,5,37.5,2025-08-11,Thailand
+1101,Headphones,Electronics,1,65.0,2025-07-17,Vietnam
+1102,Desk Chair,Furniture,4,480.0,2025-07-28,Malaysia
+1103,Pen Set,Stationery,4,12.0,2025-09-12,Thailand
+1104,Sneakers,Footwear,2,110.0,2025-08-07,Singapore
+1105,Red Mug,Home,5,37.5,2025-08-28,Philippines
+1106,Laptop Stand,Electronics,5,200.0,2025-08-04,Indonesia
+1107,Desk Chair,Furniture,5,600.0,2025-08-02,Singapore
+1108,Water Bottle,Outdoors,3,36.0,2025-07-18,Indonesia
+1109,Notebook,Stationery,5,25.0,2025-06-20,Singapore
+1110,Backpack,Outdoors,3,105.0,2025-08-15,Vietnam
+1111,Pen Set,Stationery,2,6.0,2025-06-27,Vietnam
+1112,Red Mug,Home,3,22.5,2025-09-07,Singapore
+1113,Desk Chair,Furniture,2,240.0,2025-08-28,Indonesia
+1114,Water Bottle,Outdoors,5,60.0,2025-08-15,Indonesia
+1115,Water Bottle,Outdoors,2,24.0,2025-07-16,Vietnam
+1116,Blue T-Shirt,Apparel,2,30.0,2025-08-08,Indonesia
+1117,Red Mug,Home,2,15.0,2025-08-23,Singapore
+1118,Desk Chair,Furniture,2,240.0,2025-07-17,Thailand
+1119,Blue T-Shirt,Apparel,5,75.0,2025-07-02,Indonesia
+1120,Headphones,Electronics,3,195.0,2025-08-17,Singapore
+1121,Water Bottle,Outdoors,3,36.0,2025-08-12,Singapore
+1122,Blue T-Shirt,Apparel,5,75.0,2025-08-09,Malaysia
+1123,Blue T-Shirt,Apparel,3,45.0,2025-09-13,Vietnam
+1124,Pen Set,Stationery,3,9.0,2025-08-18,Singapore
+1125,Blue T-Shirt,Apparel,5,75.0,2025-07-19,Singapore
+1126,Blue T-Shirt,Apparel,2,30.0,2025-08-23,Thailand
+1127,Pen Set,Stationery,2,6.0,2025-08-27,Vietnam
+1128,Red Mug,Home,5,37.5,2025-08-04,Indonesia
+1129,Water Bottle,Outdoors,2,24.0,2025-08-23,Singapore
+1130,Blue T-Shirt,Apparel,3,45.0,2025-08-18,Thailand
+1131,Blue T-Shirt,Apparel,3,45.0,2025-07-17,Malaysia
+1132,Pen Set,Stationery,5,15.0,2025-06-23,Indonesia
+1133,Headphones,Electronics,4,260.0,2025-07-02,Singapore
+1134,Sneakers,Footwear,5,275.0,2025-09-11,Philippines
+1135,Pen Set,Stationery,4,12.0,2025-07-07,Thailand
+1136,Laptop Stand,Electronics,1,40.0,2025-06-21,Indonesia
+1137,Laptop Stand,Electronics,1,40.0,2025-08-06,Indonesia
+1138,Sneakers,Footwear,1,55.0,2025-08-13,Philippines
+1139,Sneakers,Footwear,4,220.0,2025-08-02,Malaysia
+1140,Notebook,Stationery,5,25.0,2025-07-24,Singapore
+1141,Backpack,Outdoors,2,70.0,2025-08-05,Malaysia
+1142,Sneakers,Footwear,2,110.0,2025-06-21,Malaysia
+1143,Notebook,Stationery,3,15.0,2025-09-04,Vietnam
+1144,Desk Chair,Furniture,5,600.0,2025-09-08,Singapore
+1145,Laptop Stand,Electronics,2,80.0,2025-07-16,Malaysia
+1146,Water Bottle,Outdoors,2,24.0,2025-07-19,Vietnam
+1147,Red Mug,Home,5,37.5,2025-08-26,Malaysia
+1148,Pen Set,Stationery,4,12.0,2025-06-26,Vietnam
+1149,Pen Set,Stationery,5,15.0,2025-08-21,Thailand
+1150,Red Mug,Home,4,30.0,2025-07-23,Philippines
